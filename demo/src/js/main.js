@@ -15,6 +15,7 @@
         debug:              true,
         title:              'Video demo',
         iconUrl:            '../dist/plyr.svg',
+        hideControls:       false,
         tooltips: {
             controls:       true
         },
